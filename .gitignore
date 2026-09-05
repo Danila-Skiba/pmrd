@@ -1,8 +1,5 @@
 venv/
-models/
 .dvc/
 
 *.env
-
-data/
-/data
+data/raw/creditcard.csv
