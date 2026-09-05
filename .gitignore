@@ -1,0 +1,6 @@
+venv/
+models/
+
+*.env
+
+data/

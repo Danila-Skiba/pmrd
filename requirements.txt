@@ -1,0 +1,17 @@
+# Core data science
+pandas>=1.5.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Development & version control
+dvc>=3.0.0
+jupyterlab>=4.0.0
+
+# Optional but recommended (for better compatibility)
+ipython>=8.0.0
+notebook>=7.0.0  # классический Jupyter, если нужен
+scipy>=1.10.0    # часто используется вместе с sklearn
