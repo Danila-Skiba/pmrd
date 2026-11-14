@@ -2,4 +2,6 @@ venv/
 .dvc/
 
 *.env
+data/raw/creditcard.csv.dvc
 data/raw/creditcard.csv
+data/raw/new_creditcard.csv
